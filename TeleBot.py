@@ -39,7 +39,7 @@ getdia = date.today()
 dia_polido = getdia.strftime("%d_%M")
 
 # Chave do bot
-chave_api_tel = "5839791784:AAHQL_i9WxgFIqOZ_ju3MO61KegwsY81pk4"
+chave_api_tel = "INSERIR CHAVE TELEGRAM BOT - INSERT TELEGRAM BOT KEY"
 bot = telebot.TeleBot(chave_api_tel)
 
 # Começo do código do bot, inicialização.
