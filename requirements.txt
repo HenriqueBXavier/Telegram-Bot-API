@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+selenium
+pandas
+openpyxl
+xmltodict
+python-dotenv
